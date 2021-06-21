@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sergio Bourguet
+    tagline: Diseño editorial \ Diseño gráfico \ Comunicación
+    avatar: ovisnigra.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: sbourguet@gmail.com
+    phone: 55 1341 2374
+    website: sergiobourguet.github.io/cv_portafolio/ #do not add http://
+    linkedin: 
+    xing: 
+    github: sergiobourguet
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ovisnigra'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,12 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Diseñador editorial con más de 20 años de experiencia principalmente dedicado a publicaciones técnicas y científicas. Más allá del diseño gráfico, el oficio editorial, como conjunto de saberes y disciplinas, le ha permitido aprender de equipos multidisciplinarios y ganar experiencia en diversas áreas relacionadas como son el cuidado editorial, la ilustración técnica, la infografía o el diseño de mapas. 
+
+Ha colaborado con algunas de las principales instituciones editoriales y académicas del país como son: Fondo de Cultura Económica, Editorial Santillana, Macmillan, Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio), UNAM, ITAM, Secretaría de Relaciones Exteriores y el Laboratorio Nacional de Ciencias de la Sostenibilidad (Lancis), entre otras. 
+
+En Pátzcuaro ha formado parte de proyectos culturales y ha emprendido un negocio familiar de preparación y comercialización de productos oaxaqueños. Apasionado de la música, el cine y los libros, ocasionalmente gusta de organizar sesiones de estudio o proyecciones cine con los amigos.
+
 education:
     - degree: MSc in Computer Science
       university: University of London

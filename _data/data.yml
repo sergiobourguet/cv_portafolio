@@ -47,7 +47,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Semblanza
     summary: |
       Diseñador editorial con más de 20 años de experiencia principalmente dedicado a publicaciones técnicas y científicas. Más allá del diseño gráfico, el oficio editorial, como conjunto de saberes y disciplinas, le ha permitido aprender de equipos multidisciplinarios y ganar experiencia en diversas áreas relacionadas como son el cuidado editorial, la ilustración técnica, la infografía o el diseño de mapas. 
 
@@ -56,9 +56,10 @@ Ha colaborado con algunas de las principales instituciones editoriales y académ
 En Pátzcuaro ha formado parte de proyectos culturales y ha emprendido un negocio familiar de preparación y comercialización de productos oaxaqueños. Apasionado de la música, el cine y los libros, ocasionalmente gusta de organizar sesiones de estudio o proyecciones cine con los amigos.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    title: Estudios
+    - degree: Licenciatura en Diseño de la Comunicación Gráfica
+      university: Universidad Autónoma Metropolitana
+      time: 1993 - 1997
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum

@@ -27,23 +27,23 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Español
+        level: Nativo
 
-      - idiom: French
-        level: Professional
+      - idiom: Inglés
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Italiano
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Libros
         link:
 
-      - item: Snowboarding
+      - item: Música
         link:
 
-      - item: Cooking
+      - item: Cine
         link:
 
 career-profile:
@@ -145,22 +145,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: InDesign
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Photoshop
         level: 98%
 
-      - name: Angular
+      - name: Illustrator
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: MacOS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Windon
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Linux
         level: 60%
 
 footer: >
